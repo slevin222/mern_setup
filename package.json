@@ -21,7 +21,9 @@
   },
   "homepage": "https://github.com/slevin222/mern_setup#readme",
   "dependencies": {
+    "atob": "^2.1.2",
     "cors": "^2.8.4",
+    "deep-extend": "^0.6.0",
     "express": "^4.16.2"
   },
   "devDependencies": {
